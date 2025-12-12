@@ -1,1 +1,1 @@
-# Developer with interest in React, Python, ML, LLM
+# Dev with interest in React, Python, ML, LLM
