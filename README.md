@@ -1,1 +1,1 @@
-# SWE with interest in React, Python, ML, LLM
+# Developer with interest in React, Python, ML, LLM
