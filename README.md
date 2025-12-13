@@ -1,2 +1,2 @@
 # SWE interested in React, Python, ML, LLM
-<img src="x.png" alt="x" width="60%"/>
+<img src="x.png" alt="x" width="80%"/>
