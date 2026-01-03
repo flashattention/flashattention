@@ -1,6 +1,5 @@
-# SPEIS - Story Point Estimator In Scrum
-- FE: React / Langchain / Zustand / TailwindCSS
-- BE: Spring Boot / Flask
-- ML: TF-IDF + SentenceBERT Embeding / Ensemble of XGBoost, CatBoost, LightGBM for regression
-
-<img src="x.png" alt="x" width="100%"/>
+# Student NLP researcher interested in recent advances and technologies.
+- Agentic AI
+- Improving transformer architecture
+- Efficient training at scale
+- Reinforcement learning
