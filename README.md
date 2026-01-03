@@ -2,7 +2,7 @@
 - #### Inner workings of transformers
 - #### Recent improvements in LLM architectures
 - #### Efficient training at scale
-- #### Variations of reinforcement learning
+- #### Reinforcement learning with LLMs
 
 # And these are my main source of study.
 - #### Ahead of AI magazine (https://magazine.sebastianraschka.com/)
