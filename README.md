@@ -1,4 +1,4 @@
-# Student NLP researcher interested in recent advances and technologies.
+# Student NLP researcher with interest in recent NLP advances and technologies.
 - Agentic AI
 - Improving transformer architecture
 - Efficient training at scale
