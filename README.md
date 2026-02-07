@@ -1,7 +1,7 @@
 # Hello! I'm an NLP researcher with interest in topics like:
 - #### Improving multi-agent systems
 - #### Inner workings of transformers
-- #### Recent improvements in LLM architectures
+- #### Recent advances in LLM architectures
 - #### Reinforcement learning with LLMs
 
 # Source of study
