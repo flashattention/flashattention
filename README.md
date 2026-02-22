@@ -4,7 +4,7 @@
 - #### Recent advances in LLM architectures
 - #### Reinforcement learning with LLMs
 
-# Source of study
+# Source of knowledge
 - #### AI Agent Papers (https://github.com/masamasa59/ai-agent-papers)
 - #### Ahead of AI magazine (https://magazine.sebastianraschka.com/)
 - #### Anthropic’s Interpretability Research (https://transformer-circuits.pub/)
