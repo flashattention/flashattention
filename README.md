@@ -2,5 +2,5 @@
 ## Tech Stack
   - React, TailwindCSS, NextJS
   - NestJS, Supabase
-  - AI Agents, Langraph
+  - Python, Automation, AI Agents, Langraph
   - Claude Code
