@@ -2,4 +2,4 @@
 ### - FE: Typescript, ReactJS, VueJS, TailwindCSS, NextJS
 ### - BE: Spring Boot, Node JS, Supabase
 ### - AI: Python Automation, AI Agents, Langgraph
-### - Claude Code
+### - Coding Agent: Claude Code
