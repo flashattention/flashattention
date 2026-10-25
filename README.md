@@ -1,5 +1,5 @@
-# Hello, I'm an AI Engineer at SK SKALA.
+# Hello, I'm an AX Engineer at SK SKALA.
 ### - AI: ML, DL, LLMs, AI Agents
 ### - Coding Agent: Claude Code
-### - FE: Typescript, ReactJS, VueJS, TailwindCSS, NextJS
-### - BE: Spring Boot, Node JS, PostgreSQL, Supabase, Firebase
+### - Tech Stack: Python, Langchain/Langgraph, Huggingface, Scikit-Learn, Pytorch, vLLM, etc.
+### - Source of Knowlege: [Sebastian Raschka's blog](https://magazine.sebastianraschka.com/), Huggingface, Books, Lecture materials from SK SKALA
