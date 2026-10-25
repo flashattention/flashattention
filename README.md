@@ -3,4 +3,4 @@
 ### - Main Focus: ML, DL, LLMs, AI Agents and MLOps
 ### - Coding Agent: Claude Code
 ### - Tech Stack: Python, LangChain / LangGraph, Hugging Face, Scikit-Learn, PyTorch, FastAPI, vLLM, Docker, SQL, etc.
-### - Sources of Knowledge: [Sebastian Raschka's Blog](https://magazine.sebastianraschka.com/), Hugging Face, YouTube, Technical Books, and SK SKALA Lecture Materials
+### - Knowledge Source: [Sebastian Raschka's Blog](https://magazine.sebastianraschka.com/), Hugging Face, YouTube, Technical Books, and SK SKALA Lecture Materials
