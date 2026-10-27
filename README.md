@@ -1,4 +1,4 @@
-# Hello, I'm an AX Engineer studying at SK SKALA.
+# Hello, I'm an AI Engineer, Eunbae Jeon.
 
 ### - Main Focus: ML, DL, LLMs, AI Agents and MLOps
 ### - Coding Agent: Claude Code
