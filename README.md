@@ -1,4 +1,4 @@
-# Hello, I'm an AI Engineer, Eunbae Jeon.
+# Hello, I'm an AI Engineer at SK SKALA.
 
 ### - Main Focus: ML, DL, LLMs, AI Agents and MLOps
 ### - Coding Agent: Claude Code
