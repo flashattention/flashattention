@@ -1,4 +1,4 @@
-# Hello, I'm an AI Engineer at SK SKALA.
+# Hello, I'm an AI Engineer.
 
 ### - Main Focus: ML, DL, LLMs, AI Agents and MLOps
 ### - Tech Stack: LangChain / LangGraph, Huggingface, Scikit-Learn, PyTorch, FastAPI, vLLM, Docker, SQL, etc.
