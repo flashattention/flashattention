@@ -1,4 +1,4 @@
-# Hello, I'm an AI Engineer with interest in AI Agent and AI Native Development.
+# Hello, I'm an AI Engineer with interest in AI Agent and AI Native software development.
 
 ### - Main Focus: ML, DL, LLMs, AI Agents and MLOps
 ### - Tech Stack: LangChain / LangGraph, Huggingface, Scikit-Learn, PyTorch, FastAPI, vLLM, Docker, SQL, etc.
